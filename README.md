@@ -61,7 +61,7 @@ Pixel Live turns your Android phone into a wireless camera and microphone for Wi
 
 ## 📚 Documentation
 
-https://www.pixellive.app/
+https://www.pixellive.app/webcam-mode
 
 ## 🐛 Support
 
