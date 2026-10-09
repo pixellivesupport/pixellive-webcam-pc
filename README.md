@@ -18,14 +18,14 @@ Use Pixel Live with **OBS Studio, vMix, and other Windows applications**.
 
 ### Latest Release
 
-**Pixel Live Webcam PC v1.2.1**
+**Pixel Live Webcam PC v*.*.***
 
-[**Download Pixel Live Webcam PC for Windows**](https://github.com/pixellivesupport/pixellive-webcam-pc/releases/download/v1.2.1/PixelLiveWebcam.Setup.1.2.1.exe)
+[**Download Pixel Live Webcam PC for Windows**](https://github.com/pixellivesupport/pixellive-webcam-pc/releases/download/v1.2.2/PixelLiveWebcam.Setup.1.2.2.exe)
 
 ## 🛠️ Installation
 
 1. Download the installer.
-2. Run `PixelLiveWebcam.Setup.1.2.1.exe`.
+2. Run `PixelLiveWebcam.Setup.*.*.*.exe`.
 3. Follow the installation instructions.
 4. During installation, you can choose whether to install **VB-CABLE** for Pixel Live audio.
 5. Restart Windows if requested.
@@ -46,7 +46,7 @@ https://vb-audio.com/Cable/
 
 ## 🔌 Requirements
 
-* Windows 10 / 11 64-bit
+* Windows 11 64-bit
 * Pixel Live Android app
 * Local network connection between the Android device and the computer
 * VB-CABLE for Pixel Live audio
