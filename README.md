@@ -7,7 +7,7 @@ Use Pixel Live with **OBS Studio, vMix, and other Windows applications**.
 ## ✨ Features
 
 * 🎥 Pixel Live virtual camera for Windows
-* Pixel Live audio support
+* 🎙️ Pixel Live audio support
 * 📡 SRT video and audio streaming
 * 📱 Easy QR code pairing with the Pixel Live Android app
 * 🔄 Automatic device reconnection
