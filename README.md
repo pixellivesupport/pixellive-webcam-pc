@@ -20,7 +20,7 @@ Use Pixel Live with **OBS Studio, vMix, and other Windows applications**.
 
 **Pixel Live Webcam PC v*.*.***
 
-[**Download Pixel Live Webcam PC for Windows**](https://github.com/pixellivesupport/pixellive-webcam-pc/releases/download/v1.2.2/PixelLiveWebcam.Setup.1.2.2.exe)
+[**Download the latest Pixel Live Webcam PC for Windows**](https://github.com/pixellivesupport/pixellive-webcam-pc/releases/latest)
 
 ## 🛠️ Installation
 
